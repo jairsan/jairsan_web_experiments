@@ -1,5 +1,3 @@
-#conda activate shas
-#download https://drive.google.com/u/0/uc?export=download&confirm=DOjP&id=1Y7frjVkB_85snZYHTn0PQQG_kC5afoYN
 AUDIO_LOC=$PWD/data_test_raw
 SHAS_ROOT=$PWD/SHAS
 out_folder=$PWD/data_test_segmented
