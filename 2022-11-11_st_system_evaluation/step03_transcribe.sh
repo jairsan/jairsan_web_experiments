@@ -1,0 +1,1 @@
+python3 transcribe.py data_test_segmented/maxlen10_segmentation.yaml data_test_raw > data_test_transcribed

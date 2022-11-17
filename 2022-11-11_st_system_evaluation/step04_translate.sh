@@ -1,0 +1,1 @@
+cat data_test_transcribed | python3 translate.py > data_test_translated
